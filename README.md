@@ -46,21 +46,17 @@ All SQL queries + insights are included
 **Insight:**
 **Home & Lifestyle** is the highest-revenue category consistently across branches.
 
----
-
 ### 2. Branches With Declining Month-Over-Month Sales
 
 **Insight:**
 Branch **WALM001** has multiple declining months → performance instability.
 
----
 
 ### 3. Customer Spending Pattern by Time of Day
 
 **Insight:**
 **Evening** has the highest revenue and maximum invoices.
 
----
 
 ### 4. Categories With High Sales but Low Ratings
 
@@ -71,21 +67,18 @@ Branch **WALM001** has multiple declining months → performance instability.
 * Electronic Accessories
   These generate high revenue but have ratings below 6 → customer dissatisfaction.
 
----
 
 ### 5. Payment Method With Highest Average Order Value
 
 **Insight:**
 **Cash** users have the highest average order value.
 
----
 
 ### 6. Branch With Highest Customer Satisfaction
 
 **Insight:**
 **WALM004** has the highest average rating (≈7.0).
 
----
 
 ### 7. Weekend vs Weekday Revenue
 
