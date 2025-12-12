@@ -5,7 +5,7 @@ This project uncovers key insights like top-performing categories, customer beha
 
 ---
 
-## 📂 Project Files Included
+## 📂 Project Files Include:
 
 | File                               | Description                                          |
 | ---------------------------------- | ---------------------------------------------------- |
@@ -98,10 +98,7 @@ Branch **WALM001** has multiple declining months → performance instability.
 
 The **Walmart Power BI Dashboard**:
 
-
-
-
-
+![Dashboard Overview](Dashboard.png)
 
 ---
 
