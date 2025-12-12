@@ -180,6 +180,6 @@ Walmart_Dashboard.pbix
 
 ## 👩‍💻 Author
 
-**Harshita Pandey**
-Data Analyst | SQL | Python | Power BI
+**Harshita Pandey** 
+| SQL | Python | Power BI
 📧 harshitapandey2910@gmail.com
